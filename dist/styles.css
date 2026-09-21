@@ -123,6 +123,7 @@ a { color:inherit; }
 .footer-top>a { color:#e7ca73; font-size:12px; font-weight:700; letter-spacing:.04em; text-decoration:none; }
 .legal { display:flex; justify-content:space-between; gap:35px; margin-top:42px; padding-top:20px; border-top:1px solid rgba(255,255,255,.17); color:#8fa5bb; font-size:11px; line-height:1.7; }
 .legal p { max-width:535px; margin:0; }
+.legal a { color:#e7ca73; text-decoration:none; }.legal span { margin:0 5px; color:#728aa4; }.legal em { color:#e7ca73; font-style:normal; }
 
 @media (max-width:800px) {
   .shell { width:min(100% - 32px,1180px); }
